@@ -1,0 +1,60 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+	width: auto;
+	height: 950px;
+}
+
+.background {
+
+	width: 1920px;
+	height: 100%;
+	background-color: rgba(27, 29, 31, 0.7)
+	
+}
+
+.container {
+	position: absolute;
+	margin-left: 550px;
+	margin-top: 450px;
+	
+	background-color: #fff;
+	width: 573px;
+	height: 232px;
+
+}
+
+.imgvector {
+	position: relative;
+	right: 30px;
+	margin-top: 31px;
+	margin-left: 271px;
+}
+
+.post {
+	width: 444px;
+	height: 24px;
+	font-weight: 600;
+	font-size: 24px;
+	line-height: 24px;
+	margin-left: 93px;
+	margin-top: 32px;
+}
+
+.post2 {
+	width: 282px;
+	height: 24px;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 24px;
+	margin-left: 180px;
+	margin-top: 12px;
+
+}
+
+.hrest {
+	width: 24px;
+	height: 24px;
+	position: relative;
+	left: 530px;
+	bottom: 40px;
+}
